@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://github.com/pjesus-pastorm/cursoalgoritmia/'
+languageCode = 'es'
+title = 'curso de algoritmia'
+
+theme = "mini"

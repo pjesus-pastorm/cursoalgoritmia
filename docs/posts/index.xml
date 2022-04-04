@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on curso de algoritmia</title>
-    <link>http://example.org/posts/</link>
+    <link>https://github.com/pjesus-pastorm/cursoalgoritmia/posts/</link>
     <description>Recent content in Posts on curso de algoritmia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 04 Apr 2022 09:40:58 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 09:40:58 +0200</lastBuildDate><atom:link href="https://github.com/pjesus-pastorm/cursoalgoritmia/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mi Primer Post</title>
-      <link>http://example.org/posts/my-first-postmi-primer-post/</link>
+      <link>https://github.com/pjesus-pastorm/cursoalgoritmia/posts/my-first-postmi-primer-post/</link>
       <pubDate>Mon, 04 Apr 2022 09:40:58 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-postmi-primer-post/</guid>
-      <description>Esta es una priema del primer post</description>
+      <guid>https://github.com/pjesus-pastorm/cursoalgoritmia/posts/my-first-postmi-primer-post/</guid>
+      <description>Esta es una primera prueba del primer post</description>
     </item>
     
   </channel>
