@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>curso de algoritmia</title>
-    <link>https:pjesus-pastorm.github.io/cursoalgoritmia/</link>
-    <description>Recent content on curso de algoritmia</description>
+    <title>Primeras nociones on curso de algoritmia</title>
+    <link>https:pjesus-pastorm.github.io/cursoalgoritmia/primeras-nociones/</link>
+    <description>Recent content in Primeras nociones on curso de algoritmia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 13 Apr 2022 11:07:54 +0200</lastBuildDate><atom:link href="https:pjesus-pastorm.github.io/cursoalgoritmia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 11:07:54 +0200</lastBuildDate><atom:link href="https:pjesus-pastorm.github.io/cursoalgoritmia/primeras-nociones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algoritmia_Descriptiva</title>
       <link>https:pjesus-pastorm.github.io/cursoalgoritmia/primeras-nociones/algoritmia_descriptiva/</link>
@@ -113,25 +113,6 @@ solución 🔗Si solo se usaran constantes, las ejecuciones de los programas sie
 descripción 🔗Concepto de operación
 conceptos 🔗Operación con variables: suma (o concatenación)
 solución 🔗Las variables intervienen en operaciones. Se pueden sumar (nombres de) variables y el resultado es la suma de los valores de las mismas. Además se puede asignar valores a las variables. Consiste en indicar el nombre de variable en el lado izquierdo de un signo igual (&amp;quot;=&amp;quot;) y una expresión en el lado izquierdo. En cualquier manual de JavaScript podrás estudiar la forma de generar expresiones, pero a través de los ejemplos, igualmente podrás aprender los principales operadores que se usan para calcular con valores o con otras variables.</description>
-    </item>
-    
-    <item>
-      <title>Uno</title>
-      <link>https:pjesus-pastorm.github.io/cursoalgoritmia/introduccion/uno/</link>
-      <pubDate>Wed, 13 Apr 2022 11:06:58 +0200</pubDate>
-      
-      <guid>https:pjesus-pastorm.github.io/cursoalgoritmia/introduccion/uno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https:pjesus-pastorm.github.io/cursoalgoritmia/about/</link>
-      <pubDate>Mon, 04 Apr 2022 09:40:58 +0200</pubDate>
-      
-      <guid>https:pjesus-pastorm.github.io/cursoalgoritmia/about/</guid>
-      <description>Contenido de about
-@ Ministerio de Universidades</description>
     </item>
     
   </channel>

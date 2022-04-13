@@ -1,5 +1,6 @@
 baseURL = 'https:pjesus-pastorm.github.io/cursoalgoritmia/'
 languageCode = 'es'
 title = 'curso de algoritmia'
+publishDir="Docs"
 
 theme = "mini"

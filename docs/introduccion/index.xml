@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduccions on curso de algoritmia</title>
+    <link>https:pjesus-pastorm.github.io/cursoalgoritmia/introduccion/</link>
+    <description>Recent content in Introduccions on curso de algoritmia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Apr 2022 11:06:58 +0200</lastBuildDate><atom:link href="https:pjesus-pastorm.github.io/cursoalgoritmia/introduccion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uno</title>
+      <link>https:pjesus-pastorm.github.io/cursoalgoritmia/introduccion/uno/</link>
+      <pubDate>Wed, 13 Apr 2022 11:06:58 +0200</pubDate>
+      
+      <guid>https:pjesus-pastorm.github.io/cursoalgoritmia/introduccion/uno/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

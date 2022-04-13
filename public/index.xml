@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curso de algoritmia</title>
+    <link>https:pjesus-pastorm.github.io/cursoalgoritmia/</link>
+    <description>Recent content on curso de algoritmia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 04 Apr 2022 12:47:18 +0200</lastBuildDate><atom:link href="https:pjesus-pastorm.github.io/cursoalgoritmia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>001</title>
+      <link>https:pjesus-pastorm.github.io/cursoalgoritmia/primeras-nociones/001/</link>
+      <pubDate>Mon, 04 Apr 2022 12:47:18 +0200</pubDate>
+      
+      <guid>https:pjesus-pastorm.github.io/cursoalgoritmia/primeras-nociones/001/</guid>
+      <description>Este es el contenido de primeras nociones con {{ .type }}</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https:pjesus-pastorm.github.io/cursoalgoritmia/about/</link>
+      <pubDate>Mon, 04 Apr 2022 09:40:58 +0200</pubDate>
+      
+      <guid>https:pjesus-pastorm.github.io/cursoalgoritmia/about/</guid>
+      <description>Contenido de about
+@ Ministerio de Universidades</description>
+    </item>
+    
+  </channel>
+</rss>
